@@ -4,7 +4,6 @@
 
 this is some installation instructions
 
-``bash
 npm install
 
 ```
@@ -15,3 +14,7 @@ npm install
 
 npm start
 ```
+
+Test
+
+npm test
