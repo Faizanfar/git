@@ -9,14 +9,14 @@ npm install
 
 ```
 
-##Run
+Run
 
 ```bash
 npm start
 
 ```
 
-##Test
+Test
 
 ```bash
 npm test
